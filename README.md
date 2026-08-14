@@ -21,6 +21,7 @@ User Story Roles:
  - [X] Als Developer möchte ich eine Idee für eingaben um die Eingaben eines Nutzers effizient und unplattformabhängig eingelesen werden können
  - [ ] Als Enduser möchte ich dass die Applikation performant und Unplattformabhängig verwenden können
 
+Ich konnte heute ein Projekt auswählen und den Existierenden code auf meine neue entwicklungsumgebung sowie die Mobilverwendung vorbereiten.
 
 21.8.
  - [ ] Als Enduser möchte ich dass die Applikation performant und Unplattformabhängig verwenden können
