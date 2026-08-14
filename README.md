@@ -17,8 +17,8 @@ User Story Roles:
 
 
 14.8
- Als Developer möchte ich ein Sauberes projekt, so dass ich die spezifische Mobile implementation einfach implementieren kann
- Als Developer möchte ich eine Idee für eingaben um die Eingaben eines Nutzers effizient und unplattformabhängig eingelesen werden können
- Als Enduser möchte ich dass die Applikation performant und Unplattformabhängig verwenden können
+ - [X] Als Developer möchte ich ein Sauberes projekt, so dass ich die spezifische Mobile implementation einfach implementieren kann
+ - [ ] Als Developer möchte ich eine Idee für eingaben um die Eingaben eines Nutzers effizient und unplattformabhängig eingelesen werden können
+ - [ ] Als Enduser möchte ich dass die Applikation performant und Unplattformabhängig verwenden können
 
 Code siehe ModernPainter
