@@ -25,9 +25,15 @@ Ich konnte heute ein Projekt auswählen und den Existierenden code auf meine neu
 
 21.8.
  - [ ] Als Enduser möchte ich dass die Applikation performant und Unplattformabhängig verwenden können
- - [ ] Als Developer möchte ich eine Idee für eingaben um die Eingaben eines Nutzers effizient und unplattformabhängig eingelesen werden können
+ - [X] Als Developer möchte ich eine Idee für eingaben um die Eingaben eines Nutzers effizient und unplattformabhängig eingelesen werden können
  - [X] Als Painter User möchte ich meine Eingaben sinnvoll mappen unabhängig von der Plattform um meine games leichter auf allen plattformen publizieren zu können
  - [ ] Als Enduser möchte ich dass die Applikation auf mobile läuft (programm initiieren) um von meinem handy aus SPainter zu verwenden
+
+28.8.
+ - [ ] Als Painter user möchte ich tastatureingaben einfach lesen können, um mit dem endnutzer zu interagieren
+ - [ ] Als Painter User möchte ich die position der maus lesen können, um mit dem endnutzre zu interagieren
+ - [ ] Als Enduser möchte ich dass die Applikation auf mobile läuft (programm initiieren) um von meinem handy aus SPainter zu verwenden
+ - [ ] Als Painter user möchte ich dass ich den gleichen code für windows, linux und mobile verwenden kann, um meinen aufwand zu vermindern
 
 
 Code siehe ModernPainter
