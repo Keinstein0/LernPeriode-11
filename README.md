@@ -36,9 +36,11 @@ Ich konnte heute ein Projekt auswählen und den Existierenden code auf meine neu
  - [X] Als Painter user möchte ich dass ich den gleichen code für windows, linux und mobile verwenden kann, um meinen aufwand zu vermindern
 
 04.9.
- - [ ] Als Developer möchte ich, dass ich die applikation in einem Emulator testen kann, so dass ich weis ob die app funktioniert
+ - [X] Als Developer möchte ich, dass ich die applikation in einem Emulator testen kann, so dass ich weis ob die app funktioniert
  - [X] Als Enduser möchte ich dass die Applikation auf mobile läuft (programm initiieren) um von meinem handy aus SPainter zu verwenden
  - [ ] Als Painter user möchte ich auf mobile auf den screen malen können, um mein game anzuzeigen
  - [ ] Als Painter user möchte ich optimierte versionen von funktionen verwenden können, um die performance zu verbessern
+
+Leider konnte ich heute nicht so viel erreichen wie ich erwartete. Ich versuchte erst mit einem Framework das Projekt umzusetzen, was sich jedoch herausstellte nicht vernünftig zu funktionieren. Daher darf/muss ich nun die app in direktem native Android for .NET umsetzen. 
 
 Code siehe ModernPainter
