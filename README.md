@@ -43,4 +43,11 @@ Ich konnte heute ein Projekt auswählen und den Existierenden code auf meine neu
 
 Leider konnte ich heute nicht so viel erreichen wie ich erwartete. Ich versuchte erst mit einem Framework das Projekt umzusetzen, was sich jedoch herausstellte nicht vernünftig zu funktionieren. Daher darf/muss ich nun die app in direktem native Android for .NET umsetzen. 
 
+11.9.
+
+ - [ ] Als Painter user möchte ich auf mobile auf den screen malen können, um mein game anzuzeigen
+ - [ ] Als Painter user möchte ich optimierte versionen von funktionen verwenden können, um die performance zu verbessern
+ - [ ] Als Painter user möchte ich responsiveness, so dass meine apps besser plattformunabhängig laufen
+ - [ ] Als Enduser möchte ich dass die app performant läuft, so dass ich sie auch auf meinem alten handy verwenden kann
+
 Code siehe ModernPainter
