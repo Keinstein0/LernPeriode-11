@@ -50,4 +50,12 @@ Leider konnte ich heute nicht so viel erreichen wie ich erwartete. Ich versuchte
  - [ ] Als Painter user möchte ich responsiveness, so dass meine apps besser plattformunabhängig laufen
  - [ ] Als Enduser möchte ich dass die app performant läuft, so dass ich sie auch auf meinem alten handy verwenden kann
 
+Leider konnte ich heute nur so knapp die implementation von text machen, denn dieses projekt ist komplett out of scope. 
+
+## Absolute Reflexion
+
+Alles in allem war dieses Projekt ein kompletter fehlschlag. Zwar konnte ich sehr effektiv die infrastruktur des Modern Painters ausbauen, jedoch schlug die implementation der mobilversion komplett fehl. Ich kam zwar zu einem punkt wo ich die grundätzlichen grundlagen des rendering implementieren konnte, jedoch brauchte ich sehr viel herumprobieren bis ich zu einem framework kam, welches meine anforderungen auch nur annähernd umsetzen konnte. Dank dem und dem weiteren Refinment des generellen ModernPainters verlor ich sehr viel zeit. Dazulernen konnte ich auch nur wenig, denn wie sich herausstellte waren mobile applikationen überhaupt nicht das was ich machen wollte. 
+
+<img width="659" height="1204" alt="image" src="https://github.com/user-attachments/assets/0b053041-9f5c-41a6-adad-860f8d19bf39" />
+
 Code siehe ModernPainter
