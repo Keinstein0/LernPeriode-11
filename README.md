@@ -56,6 +56,7 @@ Leider konnte ich heute nur so knapp die implementation von text machen, denn di
 
 Alles in allem war dieses Projekt ein kompletter fehlschlag. Zwar konnte ich sehr effektiv die infrastruktur des Modern Painters ausbauen, jedoch schlug die implementation der mobilversion komplett fehl. Ich kam zwar zu einem punkt wo ich die grundätzlichen grundlagen des rendering implementieren konnte, jedoch brauchte ich sehr viel herumprobieren bis ich zu einem framework kam, welches meine anforderungen auch nur annähernd umsetzen konnte. Dank dem und dem weiteren Refinment des generellen ModernPainters verlor ich sehr viel zeit. Dazulernen konnte ich auch nur wenig, denn wie sich herausstellte waren mobile applikationen überhaupt nicht das was ich machen wollte. 
 
-<img width="659" height="1204" alt="image" src="https://github.com/user-attachments/assets/0b053041-9f5c-41a6-adad-860f8d19bf39" />
+<img width="704" height="1412" alt="Screencast From 2026-09-11 11-43-36" src="https://github.com/user-attachments/assets/4e45d459-f168-4b55-8823-8cfab6105d0c" />
+
 
 Code siehe ModernPainter
